@@ -13,6 +13,12 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.awb.mkdocs.ui.theme.MkDocsTheme
 
+/**
+ * Main activity
+ *
+ * @constructor Create empty Main activity
+ */
+
 class MainActivity : ComponentActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
