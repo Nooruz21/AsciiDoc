@@ -1,0 +1,35 @@
+= Project Documentation
+Author Name
+:toc:
+:toc-title: Table of Contents
+:toclevels: 2
+
+== Introduction
+
+This is the documentation for the project.
+
+== Getting Started
+
+=== Installation
+
+Instructions for installation.
+
+=== Usage
+
+Instructions for usage.
+
+== API Documentation
+
+=== User Class
+
+The `User` class represents a user in the system.
+
+==== Properties
+
+- `id`: The unique identifier of the user.
+- `name`: The name of the user.
+
+==== Example
+
+```kotlin
+val user = User(id = 1, name = "John Doe")
